@@ -1,9 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int bill = 450;
-
         int refill = 25000;
-
         int bonus = 0;
 if (refill > 1000){
     bonus = refill/100;
